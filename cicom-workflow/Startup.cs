@@ -10,6 +10,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+/*Hyungki's startup.cs changes*/
+
+
 namespace cicom_workflow
 {
     public class Startup
