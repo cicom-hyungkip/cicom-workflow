@@ -2,5 +2,4 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-//changes from master-dev
-//more changes from master-dev
+//hyungki's master-dev changes
