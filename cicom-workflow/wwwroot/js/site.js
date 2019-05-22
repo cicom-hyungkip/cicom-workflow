@@ -2,4 +2,6 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-//Hyungki's vendor1 logic updates
+var greeting = 'Hello';
+var branch = 'master'
+document.getElementById(branch).innerHTML = greeting + ' from ' + branch;
