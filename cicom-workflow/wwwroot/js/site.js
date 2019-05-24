@@ -2,6 +2,6 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
-var greeting = 'Hello';
+var greeting = 'Annyoung';
 var branch = 'master'
 document.getElementById(branch).innerHTML = greeting + ' from ' + branch;
